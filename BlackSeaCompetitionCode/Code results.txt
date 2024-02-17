@@ -1,0 +1,56 @@
+Epoch 995/1000
+25/25 [==============================] - 0s 3ms/step - loss: 0.2973 - accuracy: 0.9100 - val_loss: 0.2956 - val_accuracy: 0.9150
+Epoch 996/1000
+25/25 [==============================] - 0s 3ms/step - loss: 0.2975 - accuracy: 0.9100 - val_loss: 0.2958 - val_accuracy: 0.9150
+Epoch 997/1000
+25/25 [==============================] - 0s 2ms/step - loss: 0.2973 - accuracy: 0.9100 - val_loss: 0.2957 - val_accuracy: 0.9150
+Epoch 998/1000
+25/25 [==============================] - 0s 2ms/step - loss: 0.2974 - accuracy: 0.9100 - val_loss: 0.2957 - val_accuracy: 0.9150
+Epoch 999/1000
+25/25 [==============================] - 0s 3ms/step - loss: 0.2972 - accuracy: 0.9100 - val_loss: 0.2957 - val_accuracy: 0.9150
+Epoch 1000/1000
+25/25 [==============================] - 0s 3ms/step - loss: 0.2973 - accuracy: 0.9100 - val_loss: 0.2957 - val_accuracy: 0.9150
+C:\Users\User\PycharmProjects\pythonProject5\venv\Lib\site-packages\keras\src\engine\training.py:3000: UserWarning: You are saving your model as an HDF5 file via `model.save()`. This file format is considered legacy. We recommend using instead the native Keras format, e.g. `model.save('my_model.keras')`.
+  saving_api.save_model(
+Model saved to colonization_trainedAAAA_model.h5
+Set of anomalies that could be included in calculation - Unstable Geology, Unstable orbit, Unstable Host star, Toxic, Moon-moon 
+Please enter the number of anomalies: 0
+Enter the name of the object - Earth
+Enter the inner boundary for surface water for Host star of Earth: (0.75 for Sun)0.75
+Enter the inner transition boundary for surface water for Host star of Earth: (0.95 for Sun)0.95
+Enter the outer transition boundary for surface water for Host star of Earth: (1.68 for Sun)1.68
+Enter the outer boundary for surface water for Host star of Earth: 1.77 for Sun)1.77
+Enter escape velocity (in km/s) for Earth: 11.2
+Enter Orbital Semi-Major axis for Earth (Relative to Earth): 1
+Enter Magnetic moment for Earth (Relative to Earth: 1
+Please enter mean radius of body below (in Kilometers): 6371
+1/1 [==============================] - 0s 72ms/step
+SEPHI Score: 0.9810421029966957(Outstanding) Risk Level: Low for planet Earth for colonization
+SEPHI Score: Outstanding, Risk Level: Low for planet Earth for colonization
+Suitability: Totally Suitable
+Earth might be Totally Suitable for colonization.
+
+Process finished with exit code 0
+#epoch = 0 here to stop training, it takes long to load a model with 2000 samples :/
+
+Set of anomalies that could be included in calculation - Unstable Geology, Unstable orbit, Unstable Host star, Toxic, Moon-moon 
+Please enter the number of anomalies: 0
+Enter the name of the object - Mars
+Enter the inner boundary for surface water for Host star of Mars: (0.75 for Sun)0.75
+Enter the inner transition boundary for surface water for Host star of Mars: (0.95 for Sun)0.95
+Enter the outer transition boundary for surface water for Host star of Mars: (1.68 for Sun)1.68
+Enter the outer boundary for surface water for Host star of Mars: 1.77 for Sun)1.77
+Enter escape velocity (in km/s) for Mars: 5.032
+Enter Orbital Semi-Major axis for Mars (Relative to Earth): 1.5
+Enter Magnetic moment for Mars (Relative to Earth: 0.0005
+Please enter mean radius of body below (in Kilometers): 3389
+1/1 [==============================] - 0s 100ms/step
+SEPHI Score: 0.22628365209507514(Low) Risk Level: Low for planet Mars for colonization
+SEPHI Score: Low, Risk Level: Low for planet Mars for colonization
+Suitability: Unsuitable
+Mars might be Unsuitable for colonization.
+ Sephi score is Low , not very Low. Despite we consider colonizing it, it is not worth as it will take long and this model only evaluates planets that we can settle down instantly. Well, neural network is just small 8x4x1. Consider this is just a model and it is only developed by author :)
+Process finished with exit code 0
+
+
+
