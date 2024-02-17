@@ -1,0 +1,2 @@
+This is a small code maintained by me. I implemented an algorith to generate hybird words given two languages and similar words 
+This code aims to create common language for same language groups and less complicate communication between same group speakers :D 
