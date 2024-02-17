@@ -99,4 +99,4 @@ sorted_similarity_scores = sorted(filtered_similarity_scores, key=lambda x: (x[1
 #print all stuff
 for word, german_similarity, dutch_similarity in sorted_similarity_scores:
     print(f"Word: {word}, German Similarity: {german_similarity}, Dutch Similarity: {dutch_similarity}")
-#Attention, the words dont have to be specifically dutch or german, but they must contain Latin charachters and must be at least 60% similar
+#Attention, the words dont have to be specifically dutch or german, but they must contain Latin charachters and must be at least 50% similar
