@@ -1,0 +1,163 @@
+
+Generation 1:
+Individual 1: Eye Color - brown, Gender - female
+Individual 2: Eye Color - brown, Gender - male
+Individual 3: Eye Color - green, Gender - male
+Individual 4: Eye Color - green, Gender - female
+Individual 5: Eye Color - brown, Gender - female
+Individual 6: Eye Color - brown, Gender - female
+Individual 7: Eye Color - brown, Gender - male
+Individual 8: Eye Color - green, Gender - female
+Individual 9: Eye Color - green, Gender - male
+Individual 10: Eye Color - green, Gender - female
+
+Generation 2:
+Individual 1: Eye Color - brown, Gender - female
+Individual 2: Eye Color - green, Gender - female
+Individual 3: Eye Color - brown, Gender - male
+Individual 4: Eye Color - green, Gender - female
+Individual 5: Eye Color - brown, Gender - male
+Individual 6: Eye Color - green, Gender - female
+Individual 7: Eye Color - green, Gender - female
+Individual 8: Eye Color - brown, Gender - male
+
+Generation 3:
+Individual 1: Eye Color - brown, Gender - female
+Individual 2: Eye Color - brown, Gender - male
+Individual 3: Eye Color - brown, Gender - female
+Individual 4: Eye Color - brown, Gender - male
+Individual 5: Eye Color - green, Gender - male
+Individual 6: Eye Color - green, Gender - male
+Individual 7: Eye Color - green, Gender - female
+Individual 8: Eye Color - green, Gender - male
+Individual 9: Eye Color - green, Gender - male
+Individual 10: Eye Color - brown, Gender - male
+
+Generation 4:
+Individual 1: Eye Color - green, Gender - female
+Individual 2: Eye Color - green, Gender - female
+Individual 3: Eye Color - green, Gender - female
+Individual 4: Eye Color - green, Gender - female
+Individual 5: Eye Color - brown, Gender - female
+Individual 6: Eye Color - green, Gender - male
+Individual 7: Eye Color - green, Gender - female
+Individual 8: Eye Color - green, Gender - female
+Individual 9: Eye Color - brown, Gender - male
+Individual 10: Eye Color - brown, Gender - male
+Individual 11: Eye Color - brown, Gender - male
+Individual 12: Eye Color - brown, Gender - female
+
+Generation 5:
+Individual 1: Eye Color - brown, Gender - male
+Individual 2: Eye Color - green, Gender - male
+Individual 3: Eye Color - green, Gender - female
+Individual 4: Eye Color - brown, Gender - male
+Individual 5: Eye Color - green, Gender - female
+Individual 6: Eye Color - green, Gender - female
+Individual 7: Eye Color - brown, Gender - male
+Individual 8: Eye Color - green, Gender - female
+Individual 9: Eye Color - green, Gender - female
+Individual 10: Eye Color - green, Gender - female
+
+Generation 6:
+Individual 1: Eye Color - green, Gender - male
+Individual 2: Eye Color - green, Gender - female
+Individual 3: Eye Color - green, Gender - male
+Individual 4: Eye Color - green, Gender - male
+Individual 5: Eye Color - green, Gender - male
+Individual 6: Eye Color - green, Gender - male
+Individual 7: Eye Color - green, Gender - female
+Individual 8: Eye Color - green, Gender - male
+Individual 9: Eye Color - brown, Gender - female
+Individual 10: Eye Color - green, Gender - female
+Individual 11: Eye Color - green, Gender - female
+Individual 12: Eye Color - brown, Gender - male
+Individual 13: Eye Color - green, Gender - male
+
+Generation 7:
+Removed Individual: Eye Color - green, Gender - male
+Individual 1: Eye Color - green, Gender - male
+Individual 2: Eye Color - green, Gender - male
+Individual 3: Eye Color - green, Gender - female
+Individual 4: Eye Color - brown, Gender - male
+Individual 5: Eye Color - green, Gender - female
+Individual 6: Eye Color - green, Gender - female
+Individual 7: Eye Color - green, Gender - male
+Individual 8: Eye Color - green, Gender - male
+Individual 9: Eye Color - brown, Gender - female
+Individual 10: Eye Color - brown, Gender - female
+Individual 11: Eye Color - green, Gender - male
+Individual 12: Eye Color - green, Gender - male
+
+Generation 8:
+Individual 1: Eye Color - green, Gender - female
+Individual 2: Eye Color - green, Gender - male
+Individual 3: Eye Color - green, Gender - male
+Individual 4: Eye Color - green, Gender - female
+Individual 5: Eye Color - green, Gender - male
+Individual 6: Eye Color - green, Gender - male
+Individual 7: Eye Color - brown, Gender - male
+Individual 8: Eye Color - green, Gender - female
+Individual 9: Eye Color - green, Gender - female
+Individual 10: Eye Color - green, Gender - female
+Individual 11: Eye Color - green, Gender - male
+Individual 12: Eye Color - green, Gender - female
+Individual 13: Eye Color - green, Gender - male
+Individual 14: Eye Color - green, Gender - male
+Individual 15: Eye Color - green, Gender - male
+Individual 16: Eye Color - green, Gender - female
+
+Generation 9:
+Individual 1: Eye Color - green, Gender - female
+Individual 2: Eye Color - green, Gender - male
+Individual 3: Eye Color - green, Gender - female
+Individual 4: Eye Color - green, Gender - female
+Individual 5: Eye Color - green, Gender - male
+Individual 6: Eye Color - green, Gender - female
+Individual 7: Eye Color - green, Gender - male
+Individual 8: Eye Color - green, Gender - female
+Individual 9: Eye Color - green, Gender - male
+Individual 10: Eye Color - green, Gender - female
+Individual 11: Eye Color - green, Gender - female
+Individual 12: Eye Color - green, Gender - female
+Individual 13: Eye Color - green, Gender - female
+Individual 14: Eye Color - green, Gender - female
+Individual 15: Eye Color - green, Gender - male
+Individual 16: Eye Color - green, Gender - female
+Individual 17: Eye Color - green, Gender - female
+Individual 18: Eye Color - green, Gender - female
+Individual 19: Eye Color - green, Gender - female
+Individual 20: Eye Color - green, Gender - female
+Individual 21: Eye Color - green, Gender - female
+Individual 22: Eye Color - brown, Gender - male
+Individual 23: Eye Color - brown, Gender - female
+
+Generation 10:
+Removed Individual: Eye Color - green, Gender - female
+Individual 1: Eye Color - green, Gender - male
+Individual 2: Eye Color - green, Gender - female
+Individual 3: Eye Color - green, Gender - female
+Individual 4: Eye Color - green, Gender - female
+Individual 5: Eye Color - green, Gender - female
+Individual 6: Eye Color - green, Gender - male
+Individual 7: Eye Color - green, Gender - male
+Individual 8: Eye Color - brown, Gender - male
+Individual 9: Eye Color - brown, Gender - male
+Individual 10: Eye Color - green, Gender - female
+Individual 11: Eye Color - green, Gender - female
+Individual 12: Eye Color - green, Gender - female
+Individual 13: Eye Color - green, Gender - male
+Individual 14: Eye Color - green, Gender - female
+Individual 15: Eye Color - green, Gender - female
+Individual 16: Eye Color - green, Gender - female
+Individual 17: Eye Color - green, Gender - female
+Individual 18: Eye Color - green, Gender - female
+Individual 19: Eye Color - green, Gender - female
+Individual 20: Eye Color - green, Gender - female
+Individual 21: Eye Color - green, Gender - female
+Individual 22: Eye Color - green, Gender - female
+Individual 23: Eye Color - green, Gender - female
+Individual 24: Eye Color - green, Gender - female
+Individual 25: Eye Color - green, Gender - male
+
+Process finished with exit code 0
