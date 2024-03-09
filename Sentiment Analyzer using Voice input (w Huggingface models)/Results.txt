@@ -1,0 +1,27 @@
+Waiting for input...
+
+
+Text: how's it going
+Sentiment: very positive
+Confidence Score: 0.4155679941177368
+
+Waiting for input...
+
+
+Text: I'm okay
+Sentiment: neutral
+Confidence Score: 0.7814809679985046
+
+Waiting for input...
+
+
+Text: I don't think so you feel unwell there must be something bothering you
+Sentiment: negative
+Confidence Score: 0.35819318890571594
+
+Waiting for input...
+
+
+Text: yeah I fucking hate studies
+Sentiment: very negative
+Confidence Score: 0.7637481689453125
